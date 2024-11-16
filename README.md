@@ -1,3 +1,7 @@
+# ReactJS Interview Questions Answers
+
+Looking forward to appearing in React Interview, here are the Important Interview Questions with Answers only for you.
+
 ### 1. How does React work? How does Virtual-DOM work in React?
 
 In React, the DOM is the representation of an HTML or XML document in memory, and the React DOM is a package that allows React components to render and update the actual DOM. When a React component’s state or properties change, the React DOM updates the actual DOM to reflect those changes.
